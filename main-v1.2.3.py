@@ -80,7 +80,6 @@ key_code_2_keys = ["A", "a", "B", "b", "C", "c", "D", "d", "E", "e", "F", "f", "
 
 hot_keys = ["f1", "f2", "f3", "f4", "f5", "f6", "f7", "f8", "f9", "f10", "f11", "f12"]  # 可以设定的hot_keys
 
-# ban_words = ["小熊维尼", "支那", "武汉病毒", ]
 color = {"color=0": "#adaa9b",
          "color=1": "#9d9a8b", "color=2": "#8d8a7b", "color=3": "#7d7a6b",
          "color=4": "#6d6a5b", "color=5": "#5d5a4b", "color=6": "#4d4a3b",
